@@ -1,3 +1,8 @@
+//Kushagra Kurl
+//A00246944
+//MAPD: MOBILE APPLICATION DEVELOPMENT - fall 2021
+//This is JAV-1001 - 91349 - App Development for Android - 202109 - 001 lab 1 - logic and variables
+
 import java.util.Scanner;
 
 class ConvertSIUnits {
